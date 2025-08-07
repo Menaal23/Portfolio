@@ -48,7 +48,7 @@ This portfolio contains hands-on projects that reflect my skills in data analysi
 
 ## Contact
 - Email: menaal.asim23@gmail.com  
-- LinkedIn: [linkedin.com/in/menaal23](https://linkedin.com/in/menaal23)  
+- LinkedIn: [linkedin.com/in/menaal23](www.linkedin.com/in/menaal23)  
 - GitHub: [github.com/Menaal23](https://github.com/Menaal23)
 
 
